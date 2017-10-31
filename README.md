@@ -50,7 +50,7 @@ Laravel 资讯网站的源代码 https://news.laravel-china.org/ 。
 
 克隆源代码到本地：
 
-    > git clone git@github.com:summerblue/news.laravel-china.org.git
+    > git clone git@github.com/summerblue/news.laravel-china.org.git
 
 #### 2. 配置本地的 Homestead 环境
 
